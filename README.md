@@ -6,7 +6,7 @@ How long the project took: 16 Days
 
 System I used to test and develop my project: Vive/WMR
 
-SteamVR version: 2.0 or above
+SteamVR version: 2.2.0
 
 What I liked: I liked creating the trampoline because I made the "bounce" script without any help.
 

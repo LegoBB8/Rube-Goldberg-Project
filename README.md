@@ -6,6 +6,8 @@ How long the project took: 16 Days
 
 System I used to test and develop my project: Vive/WMR
 
+SteamVR version: 2.0 or above
+
 What I liked: I liked creating the trampoline because I made the "bounce" script without any help.
 
 What was challenging: The most challenging was making the Object Menu because I needed to understand fully how the Object Menu works in order to create a fully-working menu that spawns grabbable objects.

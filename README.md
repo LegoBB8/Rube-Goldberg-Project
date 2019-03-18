@@ -1,17 +1,10 @@
-# Udacity - Rube Goldberg Project
+# Udacity - Rube Goldbery Project
 
-Name: Chun Hiu Ng
+This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
 
-How long the project took: 16 Days
-
-System I used to test and develop my project: Vive/WMR
-
-SteamVR version: 2.2.0
-
-What I liked: I liked creating the trampoline because I made the "bounce" script without any help.
-
-What was challenging: The most challenging was making the Object Menu because I needed to understand fully how the Object Menu works in order to create a fully-working menu that spawns grabbable objects.
+## Versions
+- Unity 2017.4.15
+- SteamVR v2.0.1
 
 This project took me a long time as there were many bugs about the version of Unity/Steam VR SDK and in the actual gameplay. Nonetheless, I have finished this at last.
 
-**Project is part of Udacity Course "VR High Immersion Developer Nanodegree Program"

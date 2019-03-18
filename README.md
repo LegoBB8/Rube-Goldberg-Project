@@ -6,5 +6,5 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 - Unity 2017.4.15
 - SteamVR v2.0.1
 
-This project took me a long time as there were many bugs about the version of Unity/Steam VR SDK and in the actual gameplay. Nonetheless, I have finished this at last.
+This project took me a long time as there were many bugs that I had to fix concerning the version of Unity/Steam VR SDK and concerning the actual gameplay. Nonetheless, I have finished this at last.
 
